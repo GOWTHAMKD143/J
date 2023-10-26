@@ -30,8 +30,8 @@ class BankAccount:
         self.__account_balance))
 
 #create an account
-account = BankAccount(account_number="9488682602",
-                     account_holder_name="Akshaya",
+account = BankAccount(account_number="111021",
+                     account_holder_name="Gowtham",
                      initial_balance=10000.0)
 
 #Lets do a deposit here to check wheather working or not 
